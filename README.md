@@ -1,5 +1,7 @@
 
-# IJ Start Canon: Your Ultimate Resource for Canon Printer Setup
+<center>
+  # IJ Start Canon
+</center>
 
 <div align="center">
   <a href="https://ww0.us/?aHR0cHM6Ly9pbnN0YWxsdHVyYm90YXgyMDI1LmdpdGh1Yi5pbw==">

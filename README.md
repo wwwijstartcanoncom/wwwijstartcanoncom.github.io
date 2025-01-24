@@ -1,10 +1,9 @@
 
-<center>
   # IJ Start Canon
-</center>
-
+  
+---
 <div align="center">
-  <a href="https://ww0.us/?aHR0cHM6Ly9pbnN0YWxsdHVyYm90YXgyMDI1LmdpdGh1Yi5pbw==">
+  <a href="https://ww0.us/?aHR0cHM6Ly93d3dpanN0YXJ0Y2Fub25jb20uZ2l0aHViLmlv">
     <img src="canon-printer-setup.png" alt="IJ Start Canon" title="IJ Start Canon">
   </a>
 </div>
@@ -64,7 +63,7 @@ Once the installation is complete, print a test page to verify that everything i
 
 ---
 <div align="center">
-  <a href="https://ww0.us/?aHR0cHM6Ly9pbnN0YWxsdHVyYm90YXgyMDI1LmdpdGh1Yi5pbw==">
+  <a href="https://ww0.us/?aHR0cHM6Ly93d3dpanN0YXJ0Y2Fub25jb20uZ2l0aHViLmlv">
     <img src="canon.png" alt="IJ Start Canon" title="IJ Start Canon">
   </a>
 </div>

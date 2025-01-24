@@ -1,5 +1,4 @@
-
-  # IJ Start Canon
+# IJ Start Canon
   
 ---
 <div align="center">
